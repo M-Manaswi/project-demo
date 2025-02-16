@@ -1,1 +1,1 @@
-This the first Repository using git.
+This is first Repository using git.
